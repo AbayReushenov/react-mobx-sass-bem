@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://<your-github-username>.github.io/<your-repo-name>/",
+  "homepage": "https://AbayReushenov.github.io/react-mobx-sass-bem/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
